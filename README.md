@@ -3,4 +3,5 @@
 `There is no menu but the mods are linked to the number keys`
 * Disable enemy kill trigger `Num1`
 * Win current level `num2`
-* Enable instakill for aerus
+* Enable instakill for enemies
+
