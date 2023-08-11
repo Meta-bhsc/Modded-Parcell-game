@@ -4,4 +4,5 @@
 * Disable enemy kill trigger `Num1`
 * Win current level `num2`
 * Enable instakill for enemies
+* Disable end of timer game kill trigger `num4`
 
