@@ -5,4 +5,5 @@
 * Win current level `num2`
 * Enable instakill for enemies
 * Disable end of timer game kill trigger `num4`
-
+#
+### This project is by no means my project, it is forked from another project. All I did was mod the game and implement special controls
